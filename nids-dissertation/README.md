@@ -1,6 +1,6 @@
 # Start Here — ML for Network Intrusion Detection (Dissertation)
 
-**Student:** Aika | **University:** Heriot-Watt | **Supervisor:** (add name)
+**Student:** Aimzhan Aitmukhanbetova | **University:** Heriot-Watt | **Supervisor:** (Inkar Zhumay)
 
 ## One-line summary
 Train ML models that detect network attacks, then try to fool them using ONLY changes a real attacker can make
