@@ -1,4 +1,4 @@
-# Start Here — ML for Network Intrusion Detection (Dissertation)
+# ML for Network Intrusion Detection (Dissertation)
 
 **Student:** Aimzhan Aitmukhanbetova | **University:** Heriot-Watt | **Supervisor:** (Inkar Zhumay)
 
@@ -18,10 +18,6 @@ Train ML models that detect network attacks, then try to fool them using ONLY ch
 | `06-Meetings/` | Notes from each supervisor meeting |
 | `07-Admin/` | Ethics, PLES, GenAI usage record, deliverables checklist |
 
-## Links (fill in)
-- Notion / Trello board: 
-- OneDrive folder: 
-- Dataset download page: 
 
 ## Rules for myself
 1. Update `LOGBOOK.md` every day (short is fine).
