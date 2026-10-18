@@ -22,6 +22,4 @@ Train ML models that detect network attacks, then try to fool them using ONLY ch
 ## Rules for myself
 1. Update `LOGBOOK.md` every day (short is fine).
 2. Every paper I read goes into `02-Research/literature-log.md`.
-3. Write in my own words (plagiarism rules).
-4. Keep a record of any GenAI help in `07-Admin/genai-usage.md` (needed for the GenAI Summary section).
-5. Never commit big datasets (see `.gitignore`).
+3. Keep a record of any GenAI help in `07-Admin/genai-usage.md` (needed for the GenAI Summary section).
